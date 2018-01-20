@@ -2,12 +2,22 @@
 
 Creates a Wi-Fi AP which requires users to log in through a Captive Portal. When a user logs in, all of the GET data sent through the form is sent to the Serial Monitor in Arduino
 
+**This is for educational & research purposes only, I am not responsible for improper use**
+
 Tested on NODEMCU V1.0
 
-First: the user joins the Free AP: ![WiFi Settings on an iPhone](https://i.imgur.com/qbP5Rok.jpg)
+First: the user joins the Free AP: 
 
-Second: They're prompted with a login screen:![Popup when connecting](https://i.imgur.com/I8RE6Q8.jpg)
+<img src="https://i.imgur.com/qbP5Rok.jpg" width="33%" height="33%">
 
-Third: They enter their details: ![Data Entered](https://i.imgur.com/fqLalu2.jpg)
+Second: They're prompted with a login screen: 
 
-Last: The details are sent through serial monitor![Example of Serial Monitor](https://i.imgur.com/KbLAgwd.png)
+<img src="https://i.imgur.com/I8RE6Q8.jpg" width="33%" height="33%">
+
+Third: They enter their details: 
+
+<img src="https://i.imgur.com/fqLalu2.jpg" width="33%" height="33%">
+
+Last: The details are sent through serial monitor! 
+
+<img src="https://i.imgur.com/KbLAgwd.png" width="50%" height="50%">
