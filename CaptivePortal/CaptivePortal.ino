@@ -4,7 +4,7 @@
    Sketch uses 300,640 bytes (69%) of program storage space. Maximum is 434,160 bytes.
    Global variables use 50,732 bytes (61%) of dynamic memory, leaving 31,336 bytes for local variables. Maximum is 81,920 bytes.
 
-   Modified by PRIIML to pull GET requests from HMTL page.
+   Modified by Reed Haffner to pull GET requests from HMTL page.
 */
 
 #include <ESP8266WiFi.h>
